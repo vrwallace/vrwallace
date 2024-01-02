@@ -12,7 +12,7 @@ Visit my website, vonwallace.com, to explore a range of PHP-based IT and cyberse
 * 🚀  I'm currently working on [Various IT / Cybersecurity tools](http://vonwallace.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Various IT / Cybersecurity tools
-* ⚡  I have three birds that are a part of my family.
+* ⚡  ...
 
 ### Skills
 
