@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Von Wallace
 ===================================================================================================================================
 
-Web Developer, App Developer, DBA and Administrator
+Web Development, Application Development, Database Administration, and System Administration
 ---------------------------------------------------
 
 Visit my website, vonwallace.com, to explore a range of PHP-based IT and cybersecurity tools that I've developed. One notable creation is a multithreaded IP scanner, akin to nmap but with a user-friendly interface, released as open source. I am dedicated to contributing to the broader IT and cybersecurity communities, evidenced by the numerous projects, including various IT tools, shared on GitHub.
